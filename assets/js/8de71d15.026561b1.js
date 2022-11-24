@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuyuni_suite_menual=self.webpackChunkuyuni_suite_menual||[]).push([[5274],{6588:u=>{u.exports=JSON.parse('{"label":"hola","permalink":"/uyuni-suite/blog/tags/hola","allTagsPath":"/uyuni-suite/blog/tags","count":1}')}}]);
