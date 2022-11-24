@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuyuni_suite_menual=self.webpackChunkuyuni_suite_menual||[]).push([[7779],{5726:e=>{e.exports=JSON.parse('{"permalink":"/uyuni-suite/ko/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
