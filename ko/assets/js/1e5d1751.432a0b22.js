@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkuyuni_suite_menual=self.webpackChunkuyuni_suite_menual||[]).push([[7026],{6862:u=>{u.exports=JSON.parse('{"label":"facebook","permalink":"/uyuni-suite/ko/blog/tags/facebook","allTagsPath":"/uyuni-suite/ko/blog/tags","count":1}')}}]);
