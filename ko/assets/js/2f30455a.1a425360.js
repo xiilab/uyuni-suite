@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkuyuni_suite_menual=self.webpackChunkuyuni_suite_menual||[]).push([[981],{5996:u=>{u.exports=JSON.parse('{"label":"docusaurus","permalink":"/uyuni-suite/ko/blog/tags/docusaurus","allTagsPath":"/uyuni-suite/ko/blog/tags","count":1}')}}]);
