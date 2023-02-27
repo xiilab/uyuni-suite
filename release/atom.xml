@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiilab.github.io/uyuni-suite/release</id>
     <title>Uyuni Suite Blog</title>
-    <updated>2023-01-30T00:00:00.000Z</updated>
+    <updated>2023-02-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiilab.github.io/uyuni-suite/release"/>
     <subtitle>Uyuni Suite Blog</subtitle>
     <icon>https://xiilab.github.io/uyuni-suite/img/logo-small.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[v0.4]]></title>
+        <id>https://xiilab.github.io/uyuni-suite/release/v0.4</id>
+        <link href="https://xiilab.github.io/uyuni-suite/release/v0.4"/>
+        <updated>2023-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[기능 / 주요 변경 사항]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="기능--주요-변경-사항">기능 / 주요 변경 사항<a href="#기능--주요-변경-사항" class="hash-link" aria-label="기능 / 주요 변경 사항에 대한 직접 링크" title="기능 / 주요 변경 사항에 대한 직접 링크">​</a></h2><ul><li>이미지 Pagination 처리 (#434 , @haeinkang)</li><li>새 사용자 생성 Inputs 타입 속성 값 중 <code>group</code> -&gt; <code>groupName</code>으로 변경 (#438 , @haeinkang)</li><li>새 사용자 생성의 그룹 <code>selectBox</code>에서 <code>firstLetter</code> 값에 따라 option <code>groupBy</code> 기능 삭제 (#444 , @haeinkang)</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="버그-수정">버그 수정<a href="#버그-수정" class="hash-link" aria-label="버그 수정에 대한 직접 링크" title="버그 수정에 대한 직접 링크">​</a></h2><ul><li>사용자﹒멤버﹒그룹 추가 및 수정 모달 창 close해도 입력 값 초기화 안되는 오류 수정 (#440 #443 #433, @haeinkang)</li><li>프로젝트 캘린더에서 <code>gpu.id </code>값이 변경된 경우 필터링이 되지 않는 오류가 발생 (#423 , @haeinkang)<ul><li>따라서 GPU 필터링 기준을 <code>id</code> -&gt; <code>nodeName, gpuIndex</code>로 변경</li></ul></li><li>새 사용자 생성에서 <code>groupList</code> 가져오기 <code>useEffect</code> dependency에 <code>open</code> 추가 (#444 , @haeinkang)</li><li>keycloak refresh token 만료시 logout 이 안되는 현상조치 (#422 , @100milliongold)</li><li>비활성화된 계정으로 로그인시 에러문구 출력 (@100milliongold)</li><li>수동 예약시 캘린더 GPU 개수가 많을 때 날짜가 가려지는 현상 조치 (#407 , @100milliongold)</li><li>최초 로그인시 프로파일 화면이 로딩중에서 멈춤 현상 조치 (#405,@100milliongold)</li><li>사파리 화면에서 아이콘이 깨짐현상 조치 ( #403,@100milliongold)</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="지원-중단--제거">지원 중단 / 제거<a href="#지원-중단--제거" class="hash-link" aria-label="지원 중단 / 제거에 대한 직접 링크" title="지원 중단 / 제거에 대한 직접 링크">​</a></h2><ul><li><del><code>@react-keycloak/web"</code> , <code>@react-keycloak/keycloak-ts</code> 사용중단 (#422 , @100milliongold)</del> 재사용 조치 #509</li></ul>]]></content>
+        <author>
+            <name>je.kim</name>
+            <uri>https://github.com/xiilab</uri>
+        </author>
+        <category label="uyuni" term="uyuni"/>
+        <category label="update" term="update"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v0.3]]></title>
         <id>https://xiilab.github.io/uyuni-suite/release/v0.3</id>
