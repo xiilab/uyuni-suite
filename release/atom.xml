@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiilab.github.io/uyuni-suite/release</id>
-    <title>Uyuni Suite Blog</title>
+    <title>Uyuni  Blog</title>
     <updated>2023-02-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiilab.github.io/uyuni-suite/release"/>
-    <subtitle>Uyuni Suite Blog</subtitle>
+    <subtitle>Uyuni  Blog</subtitle>
     <icon>https://xiilab.github.io/uyuni-suite/img/logo-small.svg</icon>
     <entry>
         <title type="html"><![CDATA[v0.4]]></title>
