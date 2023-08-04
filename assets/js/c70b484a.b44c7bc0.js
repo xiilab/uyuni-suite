@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuyuni_suite_menual=self.webpackChunkuyuni_suite_menual||[]).push([[6441],{67867:e=>{e.exports=JSON.parse('{"permalink":"/uyuni-suite/release","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
