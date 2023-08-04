@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Uyuni Suite Blog</title>
+        <link>https://xiilab.github.io/uyuni-suite/blog</link>
+        <description>Uyuni Suite Blog</description>
+        <lastBuildDate>Tue, 29 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ko</language>
+        <item>
+            <title><![CDATA[v0.1]]></title>
+            <link>https://xiilab.github.io/uyuni-suite/blog/v0.1</link>
+            <guid>v0.1</guid>
+            <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[변경 사항]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="변경-사항">변경 사항<a class="hash-link" href="#변경-사항" title="제목으로 바로 가기">​</a></h2><ol><li>최초 업로드</li><li>개발 진행 예정 입니다.</li></ol>]]></content:encoded>
+            <category>uyuni</category>
+            <category>update</category>
+        </item>
+    </channel>
+</rss>
